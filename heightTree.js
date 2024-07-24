@@ -30,3 +30,6 @@ root.right.left=new TreeNode(6)
 root.right.right=new TreeNode(7)
 
 console.log(height(root))
+
+//TC: O(n)
+//SC: O(n)
